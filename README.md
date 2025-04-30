@@ -1,6 +1,6 @@
 # Perfil Corporativo y Estrategia de Negocio - CryptoPoint
 
-![CryptoPoint - Pagos cripto para negocios](https://cryptopoint.tech/images/main-logo.png)
+![CryptoPoint - Pagos cripto para negocios](https://raw.githubusercontent.com/CryptoPlazaHQ/CryptoPoint/main/Stock/Screenshot_20250429-222925.jpg)
 
 ## 📋 Resumen Ejecutivo
 
