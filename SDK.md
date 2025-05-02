@@ -76,27 +76,3 @@ Para implementar esta visión, CryptoPoint necesita:
 2. **Infraestructura**: Ampliar capacidad actual de conversión cripto-fiat
 3. **Marketing**: Estrategia de adopción para comercios
 
-## Retorno de Inversión
-
-```mermaid
-pie title Fuentes de Ingresos
-    "Comisiones por transacción" : 70
-    "Cuotas de integración" : 15
-    "Servicios premium" : 15
-```
-
-Con un costo estimado de implementación de $75K, el **ROI proyectado es del 287%** en el primer año.
-
-## Próximos Pasos
-
-1. **Reunión técnica**: Definir alcance del MVP (1 semana)
-2. **Desarrollo**: Iniciar construcción del SDK (Q4 2024)
-3. **Piloto**: Lanzamiento con 5 comercios seleccionados (Q1 2025)
-
----
-
-## Contacto CryptoPoint
-
-- 🌐 **Web**: [cryptopoint.tech](https://cryptopoint.tech)
-- 📧 **Email**: [info@cryptopoint.tech](mailto:info@cryptopoint.tech)
-- 📱 **Redes sociales**: [@CryptoPointTech](https://twitter.com/cryptopointtech)
